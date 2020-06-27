@@ -7,29 +7,29 @@
 **Approach/ Steps :**
 
 
-1.First we will select any one algorithm out of two:
+ 1.First we will select any one algorithm out of two:
 
 
-• MLQ
+ • MLQ
 
-• HRNN
+ • HRNN
 
 
-2.Then we will take input(number of process,arrival time,burst time ,type of
+ 2.Then we will take input(number of process,arrival time,burst time ,type of
 process) from the users in the respective algorithm.
 
 
 
-3.Then the function of the selected algorithm will be called
+ 3.Then the function of the selected algorithm will be called
 
 
 
-4.According to user input the various attribute of the process like turnaround
+ 4.According to user input the various attribute of the process like turnaround
 time will be calculated and displayed on screen alongwith the gantt chart.
 
 
 
-5.After that the average waiting time and average turnaround time will be
+ 5.After that the average waiting time and average turnaround time will be
 displayed
 
 
