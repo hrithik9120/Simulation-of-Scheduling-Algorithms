@@ -1,5 +1,5 @@
 
-# Simulation of Multilevel Queue Scheduling and Highest Response Ratio Next Scheduling
+# Simulation of Multilevel Queue Scheduling and Highest Response Ratio Next Scheduling using Python
 
 **Objective :** To simulate the multilevel queue scheduling and highest response ratio next algorithm
 
