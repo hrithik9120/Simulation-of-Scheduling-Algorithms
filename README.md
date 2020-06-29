@@ -4,6 +4,10 @@
 **Objective :** To simulate the multilevel queue scheduling and highest response ratio next algorithm
 
 
+**Language Used :** Python
+
+**Modules Used :** **Tkinter** for GUI, **Matplotlib** for plotting Gantt Chart
+
 **Approach/ Steps :**
 
 
